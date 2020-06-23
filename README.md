@@ -6,5 +6,6 @@
 
 
 It is a game 2D Tank Game that I made without using any Java library.
+There is a tank that we control in the game and the game ends when we kill the enemy bot tank or when we are killed by the enemy bot tank.
 
 
