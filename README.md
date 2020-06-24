@@ -5,7 +5,7 @@
 ![tank4](https://user-images.githubusercontent.com/32792243/85446727-81c6be00-b59d-11ea-9c2f-a82052c9a04d.PNG)
 
 
-It is a game 2D Tank Game that I made without using any Java library.
+It is a 2D Tank Game that I made without using any additional Java libraries.
 There is a tank that we control in the game and the game ends when we kill the enemy bot tank or when we are killed by the enemy bot tank.
 
 
